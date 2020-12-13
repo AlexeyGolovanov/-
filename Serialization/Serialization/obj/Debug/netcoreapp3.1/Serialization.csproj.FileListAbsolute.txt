@@ -1,0 +1,26 @@
+C:\Users\MrYas\source\repos\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.exe
+C:\Users\MrYas\source\repos\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.deps.json
+C:\Users\MrYas\source\repos\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.json
+C:\Users\MrYas\source\repos\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.dev.json
+C:\Users\MrYas\source\repos\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.dll
+C:\Users\MrYas\source\repos\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.pdb
+C:\Users\MrYas\source\repos\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.csprojAssemblyReference.cache
+C:\Users\MrYas\source\repos\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfoInputs.cache
+C:\Users\MrYas\source\repos\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfo.cs
+C:\Users\MrYas\source\repos\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\MrYas\source\repos\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.dll
+C:\Users\MrYas\source\repos\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.pdb
+C:\Users\MrYas\source\repos\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.genruntimeconfig.cache
+D:\Новая папка\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.exe
+D:\Новая папка\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.deps.json
+D:\Новая папка\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.json
+D:\Новая папка\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.runtimeconfig.dev.json
+D:\Новая папка\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.dll
+D:\Новая папка\Serialization\Serialization\bin\Debug\netcoreapp3.1\Serialization.pdb
+D:\Новая папка\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.csprojAssemblyReference.cache
+D:\Новая папка\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfoInputs.cache
+D:\Новая папка\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.AssemblyInfo.cs
+D:\Новая папка\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.csproj.CoreCompileInputs.cache
+D:\Новая папка\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.dll
+D:\Новая папка\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.pdb
+D:\Новая папка\Serialization\Serialization\obj\Debug\netcoreapp3.1\Serialization.genruntimeconfig.cache

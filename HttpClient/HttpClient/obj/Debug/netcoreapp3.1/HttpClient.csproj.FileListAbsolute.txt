@@ -1,0 +1,15 @@
+C:\Users\MrYas\source\repos\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClient.exe
+C:\Users\MrYas\source\repos\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClient.deps.json
+C:\Users\MrYas\source\repos\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClient.runtimeconfig.json
+C:\Users\MrYas\source\repos\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClient.runtimeconfig.dev.json
+C:\Users\MrYas\source\repos\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClient.dll
+C:\Users\MrYas\source\repos\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\HttpClient.pdb
+C:\Users\MrYas\source\repos\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClient.csprojAssemblyReference.cache
+C:\Users\MrYas\source\repos\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClient.AssemblyInfoInputs.cache
+C:\Users\MrYas\source\repos\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClient.AssemblyInfo.cs
+C:\Users\MrYas\source\repos\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClient.dll
+C:\Users\MrYas\source\repos\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClient.pdb
+C:\Users\MrYas\source\repos\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClient.genruntimeconfig.cache
+C:\Users\MrYas\source\repos\HttpClient\HttpClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MrYas\source\repos\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClient.csproj.CoreCompileInputs.cache
+C:\Users\MrYas\source\repos\HttpClient\HttpClient\obj\Debug\netcoreapp3.1\HttpClient.csproj.CopyComplete
